@@ -1,0 +1,230 @@
+[
+  {
+    "id": 0,
+    "name": " Motilal Oswal",
+    "description": "ma_chuda",
+    "imageURL": "naughty",
+    "credibilityScore": 96.50848805107472,
+    "predictions": [
+      {
+        "stockInfo": "Ashok Leyland Ltd., incorporated in the year 1948, is a Large Cap company (having a market cap of Rs 50897.77 Crore) operating in Auto sector.",
+        "date": "2023-11-13",
+        "targetValue": 215,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "Mahindra & Mahindra Ltd., incorporated in the year 1945, is a Large Cap company (having a market cap of Rs 189793.59 Crore) operating in Auto sector.",
+        "date": "2023-11-13",
+        "targetValue": 1775,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "Tata Motors Ltd., incorporated in the year 1945, is a Large Cap company (having a market cap of Rs 216963.91 Crore) operating in Auto sector.",
+        "date": "2023-11-03",
+        "targetValue": 750,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "Reliance Industries Ltd. key Products/Revenue Segments include Petrochemicals, Oil & Gas, Income From Financial Services, Other Services, Others and Income from Retailing for the year ending 31-Mar-2022.",
+        "date": "2023-10-30",
+        "targetValue": 2760,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "Maruti Suzuki India Ltd., incorporated in the year 1981, is a Large Cap company (having a market cap of Rs 319017.69 Crore) operating in Auto sector.",
+        "date": "2023-10-30",
+        "targetValue": 12300,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "Axis Bank Ltd., incorporated in the year 1993, is a banking company (having a market cap of Rs 294446.84 Crore).",
+        "date": "2023-10-26",
+        "targetValue": 1150,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "ICICI Bank Ltd., incorporated in the year 1994, is a banking company (having a market cap of Rs 653213.01 Crore).",
+        "date": "2023-10-23",
+        "targetValue": 1120,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "Tata Motors Ltd. key Products/Revenue Segments include Motor Vehicles, Spare Parts & Others, Miscellaneous Goods, Sale of services and Other Operating Revenue for the year ending 31-Mar-2023.",
+        "date": "2023-10-06",
+        "targetValue": 740,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "Ashok Leyland Ltd., incorporated in the year 1948, is a Large Cap company (having a market cap of Rs 52439.23 Crore) operating in Auto sector.",
+        "date": "2023-10-03",
+        "targetValue": 210,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "Tata Motors Ltd., incorporated in the year 1945, is a Large Cap company (having a market cap of Rs 205982.24 Crore) operating in Auto sector.",
+        "date": "2023-10-03",
+        "targetValue": 750,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "Mahindra & Mahindra Ltd., incorporated in the year 1945, is a Large Cap company (having a market cap of Rs 193188.42 Crore) operating in Auto sector.",
+        "date": "2023-10-03",
+        "targetValue": 1725,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "Maruti Suzuki India Ltd., incorporated in the year 1981, is a Large Cap company (having a market cap of Rs 313861.18 Crore) operating in Auto sector.",
+        "date": "2023-10-03",
+        "targetValue": 11150,
+        "advice": "Buy"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": " BNP Paribas",
+    "description": "ma_chuda",
+    "imageURL": "naughty",
+    "credibilityScore": 97.39837398373984,
+    "predictions": [
+      {
+        "stockInfo": "ICICI Bank Ltd., incorporated in the year 1994, is a banking company (having a market cap of Rs 650271.72 Crore).",
+        "date": "2023-10-25",
+        "targetValue": 1230,
+        "advice": "Buy"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": " Prabhudas Lilladher",
+    "description": "ma_chuda",
+    "imageURL": "naughty",
+    "credibilityScore": 98.19772724440695,
+    "predictions": [
+      {
+        "stockInfo": "HDFC Bank Ltd., incorporated in the year 1994, is a banking company (having a market cap of Rs 1159714.58 Crore).",
+        "date": "2023-10-17",
+        "targetValue": 2025,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "State Bank of India, incorporated in the year 1955, is a banking company (having a market cap of Rs 531549.89 Crore).",
+        "date": "2023-10-11",
+        "targetValue": 770,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "Reliance Industries Ltd., incorporated in the year 1973, is a Large Cap company (having a market cap of Rs 1570447.73 Crore) operating in Diversified sector.",
+        "date": "2023-10-11",
+        "targetValue": 2913,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "Tata Motors Ltd., incorporated in the year 1945, is a Large Cap company (having a market cap of Rs 208639.43 Crore) operating in Auto sector.",
+        "date": "2023-10-10",
+        "targetValue": 760,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "Maruti Suzuki India Ltd. key Products/Revenue Segments include Passenger Cars & Light Duty Utility Vehicles, Spare Parts & Components, Other Operating Revenue, Service Income, Scrap, Mould & Dies and Rental Income for the year ending 31-Mar-2022.",
+        "date": "2023-10-10",
+        "targetValue": 11500,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "Mahindra & Mahindra Ltd. key Products/Revenue Segments include Automobile-Light, Medium & Heavy Commercial, Jeep, Passenger Car, Other Operating Revenue, Sale of services for the year ending 31-Mar-2023.",
+        "date": "2023-10-10",
+        "targetValue": 1775,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "Ashok Leyland Ltd. key Products/Revenue Segments include Commercial Vehicles, Spare Parts & Others, Sale of services, Engine & Gensets, Ferrous Castings, Scrap, Export Incentives, Other Operating Revenue for the year ending 31-Mar-2022.",
+        "date": "2023-10-10",
+        "targetValue": 220,
+        "advice": "Buy"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": " HDFC Securities",
+    "description": "ma_chuda",
+    "imageURL": "naughty",
+    "credibilityScore": 98.85443192494067,
+    "predictions": [
+      {
+        "stockInfo": "State Bank of India, incorporated in the year 1955, is a banking company (having a market cap of Rs 511469.51 Crore)",
+        "date": "2023-10-16",
+        "targetValue": 790,
+        "advice": "Buy"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": " JM Financial",
+    "description": "ma_chuda",
+    "imageURL": "naughty",
+    "credibilityScore": 98.65589644478659,
+    "predictions": [
+      {
+        "stockInfo": "Reliance Industries Ltd. key Products/Revenue Segments include Petrochemicals, Oil & Gas, Income From Financial Services, Other Services, Others and Income from Retailing for the year ending 31-Mar-2022.",
+        "date": "2023-10-09",
+        "targetValue": 2900,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "Axis Bank Ltd., incorporated in the year 1993, is a banking company (having a market cap of Rs 308482.05 Crore)",
+        "date": "2023-10-06",
+        "targetValue": 1040,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "ICICI Bank Ltd., incorporated in the year 1994, is a banking company (having a market cap of Rs 659329.35 Crore).",
+        "date": "2023-10-06",
+        "targetValue": 1115,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "HDFC Bank Ltd., incorporated in the year 1994, is a banking company (having a market cap of Rs 1167372.22 Crore).",
+        "date": "2023-10-06",
+        "targetValue": 1850,
+        "advice": "Buy"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": " BNP Paribas Securities",
+    "description": "ma_chuda",
+    "imageURL": "naughty",
+    "credibilityScore": 98.56893298344332,
+    "predictions": [
+      {
+        "stockInfo": "State Bank of India, incorporated in the year 1955, is a banking company (having a market cap of Rs 530166.57 Crore).",
+        "date": "2023-10-04",
+        "targetValue": 790,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "Axis Bank Ltd., incorporated in the year 1993, is a banking company (having a market cap of Rs 320616.22 Crore).",
+        "date": "2023-10-04",
+        "targetValue": 1290,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "ICICI Bank Ltd., incorporated in the year 1994, is a banking company (having a market cap of Rs 648519.53 Crore).",
+        "date": "2023-10-04",
+        "targetValue": 1230,
+        "advice": "Buy"
+      },
+      {
+        "stockInfo": "HDFC Bank Ltd., incorporated in the year 1994, is a banking company (having a market cap of Rs 1144692.99 Crore).",
+        "date": "2023-10-04",
+        "targetValue": 2210,
+        "advice": "Buy"
+      }
+    ]
+  }
+]
